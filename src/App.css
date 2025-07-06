@@ -3,7 +3,7 @@
   margin-top: 12%;
   padding: 30px;
   border-radius: 20px;
-  height: 450px;
+  min-height: 480px;
   align-content: center;
 }
 
@@ -20,7 +20,7 @@
 
 @media only screen and (max-width: 600px) {
   .box {
-    width: 85%;
+    width: 90%;
   }
 }
 
